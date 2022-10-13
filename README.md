@@ -1,10 +1,10 @@
-## Hello, I'm Eniola  <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi">
+## Hello, I'm Edave  <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi">
 
-I'm a Full Stack Dev. and Cloud Engineer with 5 years of building experience.
+I'm a Full-Stack Web & Mobile App Dev. and Blockchain Engineer
 
 :mailbox: Looking for me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@eni4sure-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/eni4sure) [![Linkedin Badge](https://img.shields.io/badge/-Eniola_Osabiya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-osabiya/) [![Instagram Badge](https://img.shields.io/badge/-@eni4sure-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/eni4sure) [![Facebook Badge](https://img.shields.io/badge/-@eni4sure-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/eni4sure)
+[![Twitter Badge](https://img.shields.io/badge/-@eni4sure-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/edave_global) [![Linkedin Badge](https://img.shields.io/badge/-Eniola_Osabiya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edaveglobal/) [![Instagram Badge](https://img.shields.io/badge/-@eni4sure-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/edave_global) [![Facebook Badge](https://img.shields.io/badge/-@eni4sure-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/edaveglobal)
 
 #### Top Technologies and Stack ⚡️
 
@@ -16,18 +16,4 @@ I'm a Full Stack Dev. and Cloud Engineer with 5 years of building experience.
 
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=) ![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
 
-#### Work 
 
-Portfolio: https://www.eniolaosabiya.com/portfolio
-
-#### Profile Visits 
-
-![visitors](https://komarev.com/ghpvc/?username=eni4sure)
-
-<details>
-  
-#### Github Stats 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=eni4sure&count_private=true&theme=dark&hide=contribs,issues)
- 
-</details>
