@@ -6,8 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@edave_global-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/edave_global) [![Linkedin Badge](https://img.shields.io/badge/-David_Edeh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edaveglobal/) [![Instagram Badge](https://img.shields.io/badge/-@edave_global-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/edave_global) [![Facebook Badge](https://img.shields.io/badge/-@edaveglobal-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/edaveglobal)
 
 
-I'm a Full-Stack Web & Mobile App Developer
-
+I'm a Full-Stack Web & Mobile App Developer 
 #### Top Technologies and Stack ⚡️
 
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=) ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=) ![DART](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=) ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
