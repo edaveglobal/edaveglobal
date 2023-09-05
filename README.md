@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@edave0x-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/edave_global) [![Linkedin Badge](https://img.shields.io/badge/-David_Edeh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edaveglobal/) [![Instagram Badge](https://img.shields.io/badge/-@edave_global-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/edave_global) [![Facebook Badge](https://img.shields.io/badge/-@edaveglobal-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/edaveglobal)
 
 
-I'm a Full-Stack Web & Mobile Appp Developer👨‍💻
+I'm a Full-Stack Web & Mobile App Developer👨‍💻
 
 #### Top Technologies and Stack ⚡️
 
