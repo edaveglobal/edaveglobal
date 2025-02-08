@@ -1,7 +1,7 @@
 ## Hello, I'm EdaveHQ <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi">
 
 
-:mailbox: Looking for me! 
+:mailbox: Looking for me! finee
 
 [![Twitter Badge](https://img.shields.io/badge/-@edavehq-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/edavehq) [![Linkedin Badge](https://img.shields.io/badge/-David_Edeh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edaveglobal/) [![Instagram Badge](https://img.shields.io/badge/-@edavehq-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/edaveHQ) 
 
